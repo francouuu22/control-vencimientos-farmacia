@@ -49,16 +49,31 @@ El proyecto contempla las siguientes historias de usuario:
 
 ### 7. Declaración de uso de inteligencia artificial
 
-Durante el desarrollo de este trabajo se utilizó ChatGPT como herramienta de asistencia para:
+Durante el desarrollo de este proyecto se utilizó ChatGPT (OpenAI) como herramienta de asistencia para el análisis, diseño y documentación de la propuesta tecnológica.
 
-* Analizar y organizar la información del caso práctico.
-* Colaborar en el diseño del proceso mediante BPMN.
-* Formular historias de usuario.
-* Revisar la redacción y organización de la documentación.
+**Propósitos de utilización:**
 
-Entre las consultas realizadas se incluyeron pedidos de análisis del proceso actual de control de vencimientos, elaboración de un diagrama BPMN y formulación de historias de usuario para el sistema propuesto.
+* Analizar la problemática del control de vencimientos en Farmacia San Antonio.
+* Organizar y modelar el proceso mediante BPMN 2.0.
+* Formular historias de usuario para las funcionalidades propuestas.
+* Definir indicadores de control y estándares de desempeño.
+* Revisar y mejorar la documentación del proyecto.
 
-El contenido generado fue revisado y adaptado de acuerdo con la realidad de Farmacia San Antonio, las consignas de la asignatura y las observaciones docentes. Las decisiones finales, correcciones y responsabilidad sobre el trabajo corresponden al estudiante.
+**Ejemplos de consultas realizadas (prompts):**
+
+* "Analizá la situación actual del control de vencimientos de Farmacia San Antonio e identificá sus principales problemas."
+* "Ayudame a modelar mediante BPMN el proceso de recepción, registro y control de vencimientos."
+* "Formulá tres historias de usuario para el sistema propuesto utilizando el formato Como usuario, quiero una funcionalidad, para obtener un beneficio."
+* "Proponé indicadores de control y estándares de desempeño para evaluar el funcionamiento del sistema."
+
+**Revisión y participación humana:**
+
+Los resultados proporcionados por la herramienta fueron revisados, contrastados con la información real de la farmacia y adaptados a las consignas de la asignatura.
+
+Se realizaron correcciones sobre la distribución de responsabilidades, el funcionamiento del sistema, el modelado del proceso y las funcionalidades propuestas. También se verificó que el sistema genere alertas, pero que las decisiones profesionales permanezcan bajo responsabilidad del farmacéutico.
+
+La herramienta de inteligencia artificial se utilizó como apoyo y no como sustituto del análisis y las decisiones del estudiante. La responsabilidad final sobre el contenido presentado corresponde al autor del trabajo.
+
 
 ### 8. Alcance del proyecto
 
