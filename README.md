@@ -74,3 +74,19 @@ Este trabajo constituye una propuesta de mejora tecnológica. No representa un s
 6. Revisión de alertas y decisión del farmacéutico responsable.
 7. Ejecución de las acciones indicadas.
 
+## 10. Indicadores de control y estándares de desempeño
+
+Para evaluar el funcionamiento del sistema propuesto se establecen los siguientes indicadores:
+
+| Indicador                | Criterio de medición                                                                  | Estándar propuesto                |
+| ------------------------ | ------------------------------------------------------------------------------------- | --------------------------------- |
+| Registro de vencimientos | Porcentaje de productos recibidos con sus fechas de vencimiento registradas.          | 100 % de los productos recibidos. |
+| Evaluación de fechas     | Frecuencia con la que el sistema analiza los registros.                               | Una evaluación diaria.            |
+| Generación de alertas    | Porcentaje de productos que cumplen el criterio de alerta y generan una notificación. | 100 % de los casos detectados.    |
+| Revisión de alertas      | Tiempo transcurrido entre la generación de una alerta y su revisión profesional.      | Dentro de las 24 horas.           |
+
+Estos indicadores permitirán comparar el desempeño esperado con el funcionamiento real del sistema, detectar posibles desviaciones y establecer medidas correctivas.
+
+Los estándares indicados son valores propuestos para el proyecto y deberán evaluarse una vez que el sistema sea implementado.
+
+
