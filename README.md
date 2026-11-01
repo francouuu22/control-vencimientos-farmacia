@@ -63,3 +63,14 @@ El contenido generado fue revisado y adaptado de acuerdo con la realidad de Farm
 ### 8. Alcance del proyecto
 
 Este trabajo constituye una propuesta de mejora tecnológica. No representa un sistema implementado ni una integración efectiva con el software de gestión Plex utilizado actualmente por la farmacia.
+
+## 9. Flujo general del proceso
+
+1. Recepción de mercadería.
+2. Verificación de productos y fechas de vencimiento.
+3. Registro de los datos en el sistema.
+4. Evaluación diaria de las fechas registradas.
+5. Generación de alertas cuando corresponda.
+6. Revisión de alertas y decisión del farmacéutico responsable.
+7. Ejecución de las acciones indicadas.
+
